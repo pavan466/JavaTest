@@ -25,6 +25,7 @@ HELP.md
 /target/
 /.nb-gradle/
 /build/
+/etc/
 
 ### VS Code ###
 .vscode/
